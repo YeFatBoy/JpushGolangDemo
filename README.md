@@ -16,6 +16,9 @@ gin的逻辑和路由等配置
 #push.go
 jpush的主程序
 
+#device.go
+更新设备信息,暂时没有开发
+
 #summary
 使用方法，运行之后再输入地址http://localhost:8080/push/device?title=测试&audience=1_SuperShuYe&extras=type_stock
 
