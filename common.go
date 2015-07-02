@@ -9,8 +9,8 @@ import (
 
 //配置jpush应用的秘钥
 const (
-	appKey       = "6e2c4f49317257f73c4a1c7a"
-	masterSecret = "29fbf399d30b06df6c06818c"
+	appKey       = "########################"
+	masterSecret = "########################"
 )
 
 //Json返回的信息
